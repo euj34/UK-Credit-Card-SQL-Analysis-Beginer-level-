@@ -3,15 +3,14 @@ Beginner-level SQL project where I analyze a UK credit card customer dataset and
 
 Dataset
 The dataset represents UK credit card customers with columns such as card holder name, city, credit card type, and total spent / credit limit.
+The dataset is in the excel format , but to import in the sql workbench , we need to transform into the csv format.
+
 Database setup
 This project assumes a table called creditcard_table with columns such as:
 
 CardHolder – customer name
-
 City – customer city
-
 Creditcard_type – type/brand of card
-
 Totalspent – total amount spent (numeric)
 
 Example SQL to create a similar table:
@@ -26,8 +25,7 @@ CREATE TABLE creditcard_table (
     Totalspent DECIMAL(10,2),
     City VARCHAR(50),
     CardHolder VARCHAR(100),
-    Issue_Date DATE
-);
+    Issue_Date DATE);
 
 
 Questions I answered
