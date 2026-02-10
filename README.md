@@ -1,5 +1,5 @@
 UK Credit Card SQL Analysis
-Beginner-level SQL project where I analyze a UK credit card customer dataset and answer business-style questions using core SQL commands.
+Beginner-level SQL project where I analyze a UK credit card customer dataset and answer business-style questions using core SQL commands. 
 
 Dataset
 The dataset represents UK credit card customers with columns such as card holder name, city, credit card type, and total spent / credit limit.
