@@ -3,6 +3,32 @@ Beginner-level SQL project where I analyze a UK credit card customer dataset and
 
 Dataset
 The dataset represents UK credit card customers with columns such as card holder name, city, credit card type, and total spent / credit limit.
+Database setup
+This project assumes a table called creditcard_table with columns such as:
+
+CardHolder – customer name
+
+City – customer city
+
+Creditcard_type – type/brand of card
+
+Totalspent – total amount spent (numeric)
+
+Example SQL to create a similar table:
+CREATE DATABASE creditcard_analysis;
+USE creditcard_analysis;
+
+CREATE TABLE creditcard_table (
+    CreditcardNum BIGINT,
+    Creditcard_company VARCHAR(50),
+    Creditcard_type VARCHAR(50),
+    Credit_Limit INT,
+    Totalspent DECIMAL(10,2),
+    City VARCHAR(50),
+    CardHolder VARCHAR(100),
+    Issue_Date DATE
+);
+
 
 Questions I answered
 Show all columns and the first 10 rows of the table.
