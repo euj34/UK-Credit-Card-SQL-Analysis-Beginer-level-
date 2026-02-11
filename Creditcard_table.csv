@@ -1,0 +1,16 @@
+CreditcardNum,Creditcard_company,Creditcard_type,Credit_Limit,Totalspent,City,CardHolder,Issue_Date
+4535,Egg,Mastercard,"£1,500.00 ",1235.4,London,Paul Jones,12-12-2018
+4456,Barclaycard,Mastercard,"£10,000.00 ",3500.39,London,John Smith,11-10-2018
+2332,Capital One,Visa,"£3,000.00 ",1200,Birmingham,Paul Carter,05-07-2019
+3554,MBNA,Visa,"£5,000.00 ",3450.75,Aberdeeen,Julia Kathy,04-04-2019
+3556,Egg,Mastercard,"£4,000.00 ",2300,London,Paul Jones,20-04-2019
+3557,Natwest,Visa,"£12,000.00 ",4002.1,Aberdeeen,Julia Kathy,20-04-2020
+3434,Capital One,Mastercard,"£20,000.00 ",5420.75,Birmingham,Stanley Mathews,02-05-2019
+3333,American Express,American Express,"£3,500.00 ",1243.2,London,Paul Jones,02-05-2020
+3334,Virgin Credit Card,Mastercard,"£1,200.00 ",867.3,Aberdeeen,Mario Brothers,17-01-2019
+4578,Barclaycard,Mastercard,"£4,500.00 ",4325.6,Aberdeen,Julia Kathy,29-02-2020
+2456,Coutts Bank,Mastercard,"£50,000.00 ",2567.77,Aberdeem,Mario Brothers,22-01-2020
+4323,Natwest,Mastercard,"£24,000.00 ",7325.5,Glasgow,John Mackay,10-10-2018
+4489,Natwest,Visa,"£3,000.00 ",1450.45,Birmingham,Paul Carter,04-05-2018
+3343,Virgin Credit Card,Visa,"£4,000.00 ",2300.5,Glasgow,John Mackay,03-03-2019
+1212,Capital One,Visa,"£5,000.00 ",3476,London,Krystal Jones,12-11-2019
